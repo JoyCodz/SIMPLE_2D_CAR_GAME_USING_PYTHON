@@ -2,7 +2,7 @@
 
 Welcome to **JOY's Car Game**, a thrilling 2D racing game built with Python and Pygame! 🚗💨 Your mission: Dodge traffic, speed up, and aim for the highest score while cruising down the road. The challenge? The longer you survive, the faster the game gets! ⚡
 
-![Gameplay](path/to/your/screenshot.png)
+![Gameplay](Game_Appearance.png)
 
 ## ✨ Features
 
